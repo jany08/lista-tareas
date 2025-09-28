@@ -1,0 +1,25 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Configuración de PyCharm / IntelliJ IDEA
+.idea/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de compilación
+*.dll
+*.so
+*.dylib
+
+# Archivos de logs
+*.log
+
+# Archivos temporales de Windows / Mac / Linux
+Thumbs.db
+.DS_Store
+*.swp
